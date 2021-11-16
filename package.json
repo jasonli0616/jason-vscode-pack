@@ -1,0 +1,41 @@
+{
+    "name": "jason-vscode-pack",
+    "displayName": "Jason VSCode Pack",
+    "description": "This is a VSCode extension pack that features my most commonly used VSCode extensions.",
+    "publisher": "jasonli0616",
+    "author": {
+        "name": "Jason Li",
+        "url": "https://jasonli0616.dev"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jasonli0616/jason-vscode-pack.git"
+    },
+    "bugs": {
+        "url": "https://github.com/jasonli0616/jason-vscode-pack/issues"
+    },
+    "icon": "images/icon.png",
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "Jason VSCode Pack",
+        "jasonli0616"
+    ],
+    "extensionPack": [
+        "jasonli0616.jason-vscode-theme",
+        "ms-python.python",
+        "ms-vscode.cpptools",
+        "vscjava.vscode-java-pack",
+        "alexcvzz.vscode-sqlite",
+        "mtxr.sqltools",
+        "dsznajder.es7-react-js-snippets",
+        "ritwickdey.liveserver",
+        "ms-vsliveshare.vsliveshare",
+        "icrawl.discord-vscode"
+    ]
+}
